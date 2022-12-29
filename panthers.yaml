@@ -3,6 +3,7 @@ team: Panthers
 manager: Sebastian
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 members:
 - Violet
 - Stella
@@ -16,3 +17,9 @@ members:
 - Stella
 - Anthony
 >>>>>>> add-coach
+=======
+members:
+- Violet
+- stella
+- Anthony
+>>>>>>> new-teams
