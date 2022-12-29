@@ -2,8 +2,17 @@ team: Panthers
 
 manager: Sebastian
 
+<<<<<<< HEAD
 members:
 - Violet
 - Stella
 - Anthony
 - Freddie
+=======
+coach: Teddy
+
+members:
+- Violet
+- Stella
+- Anthony
+>>>>>>> add-coach
